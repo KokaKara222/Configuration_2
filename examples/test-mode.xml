@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <package_name>A</package_name>
+    <repository>examples/test_repo.txt</repository>
+    <mode>test</mode>
+</config>

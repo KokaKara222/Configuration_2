@@ -1,0 +1,17 @@
+# Артефакты сборки
+build/
+out/
+.gradle/
+.kotlin/
+*.class
+*.jar
+
+# Настройки редакторов и IDE
+.idea/
+*.iml
+.vscode/
+.fleet/
+
+# Прочее
+local.properties
+.DS_Store
